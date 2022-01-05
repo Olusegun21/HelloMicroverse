@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello Microverse
 
@@ -19,28 +18,11 @@ Additional description about the project and its features.
 [Live Demo Link](https://olusegun21.github.io/HelloMicroverse/)
 
 
-
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+## Author
 
 👤 **Olusegun aka Bosby**
 
 - GitHub: [@olusegun21](https://github.com/olusegun21)
-- Twitter: [@twitterhandle](https://twitter.com/@olusegun81)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/olusegun-olagunju)
 
 
@@ -51,13 +33,14 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
-- Hat tip to Microverse for providng this template 
-- Inspiration
-- etc
+- Microverse
+- My coding partners 
 
